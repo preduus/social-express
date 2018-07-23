@@ -1,0 +1,14 @@
+.body-post-container {
+    margin-bottom: 8px;
+}
+.body-post-container textarea {
+    resize: vertical;
+    min-height: 80px;
+    max-height: 180px;
+}
+.footer-post-container {
+    
+}
+#post-button {
+    display: none;
+}
